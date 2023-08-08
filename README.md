@@ -6,7 +6,6 @@
 
 ## Contatos:
 <div>
-          <a><img alt="Static Badge" src="https://img.shields.io/badge/instagram"></a>
 </div>
           
           
