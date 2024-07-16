@@ -1,8 +1,8 @@
-## Olá! Eu sou a Bárbara Luciano 
+## Hello! I am Barbara Luciano! 💞🌹 
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando React Native
-- 😄 Pronouns: she/her (ela/dela)
+- 🔭 Currently working with front-end
+- 🌱 Learning React Native
+- 😄 Pronouns: she/her 
 
 <div>
   <a href="https://github.com/babi2707">
