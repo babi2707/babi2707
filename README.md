@@ -21,6 +21,14 @@
   <img align="center" alt="Babi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Babi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Babi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+  <img align="right" alt="Babi-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/956903303537627186/1262572278609088513/ezgif.com-animated-gif-maker.gif?ex=66971590&is=6695c410&hm=ffb0313d1d6b18e1e3197ee84279bf379050f0b9aa1cd0517daf4a97e869be97&">
 </div>
 
 ##
+
+<div>
+  <a href="https://www.instagram.com/babi752?igsh=YnZyeHY4bm5jZmV6&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:barbara.araujo.1299141@sga.pucminas.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="http://www.linkedin.com/in/barbara-luciano-araujo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/31975258315"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
