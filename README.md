@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=890044&size=35&center=true&vCenter=true&width=1000&lines=Hello!+Welcome!+My+Name+is+Barbara+Luciano;I'm+22+years+old;I+am+from+Belo+Horizonte,+MG,+Brazil;I+study+Computer+Science+at+PUC+Minas)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C30062&size=35&center=true&vCenter=true&width=1000&lines=Hello!+Welcome!+My+Name+is+Barbara+Luciano;I'm+22+years+old;I+am+from+Belo+Horizonte,+MG,+Brazil;I+study+Computer+Science+at+PUC+Minas)](https://git.io/typing-svg)
 
 - 🔭 Currently working with front-end
 - 🌱 Learning React Native
